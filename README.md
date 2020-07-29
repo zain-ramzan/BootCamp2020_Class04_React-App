@@ -2,7 +2,7 @@
 
 Here is the link of my React Base App Website, Just Click on the bellow line/link.
 
-[Class No # 04 | React Base App | BootCamp2020-PanaCloud](http://class04-react-app.surge.sh/)
+[Class No # 04 | React Base App | BootCamp2020-PanaCloud | 29/July/2020](http://class04-react-app.surge.sh/)
 
 JazaKallah!
 
