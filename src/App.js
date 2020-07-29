@@ -13,7 +13,7 @@ function App() {
       <button className="btn" onClick={()=> setMode(!Mode)}>Change the Mode</button>
       <hr/>
       <h2>Count the Counting : {count}</h2>
-      <button className="btn" onClick={()=> setCount(++count)}>Start the Counter</button>
+      <button className="btn" onClick={()=> setCount(++count)}>Start the Counter!</button>
       <button className="btn" onClick={() => window.location.reload(false)}>Click to Refresh!</button>
       <hr/>
     </div>
